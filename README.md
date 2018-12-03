@@ -1,7 +1,5 @@
 # Project Title
 
-Pinball Assignment for CS 351
-
 The game consists of a 8x5 gameboard with blue tiles, with 5 tiles being orange and randomly placed throught the board.
 The ball is initially placed at the center of the gray bar. The reset and play buttons control the game. When the reset button is
 highlighted the user can move the ball anywhere in the grey bar by using the mouse. When the user presses play the ball will shoot in
